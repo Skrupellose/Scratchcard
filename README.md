@@ -1,2 +1,2 @@
-# -Scratchcard
+# Scratchcard
  a scratchcard demo
